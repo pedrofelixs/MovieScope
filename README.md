@@ -1,2 +1,1 @@
-# MovieScope
-This is an Android App development for University. The main theme is curiosities about movies and series.
+Este projeto teve seu histórico de commits alterado incorretamente, resultando na perda de commits e até mesmo da branch principal (main). O uso do comando --force fez com que commits antigos fossem restaurados, enquanto outros foram excluídos, o que acabou comprometendo o repositório e os dados nele contidos. Diante dessa situação, decidimos criar um novo repositório e recuperar os dados locais de todos os participantes do grupo para reestabelecer o projeto.
