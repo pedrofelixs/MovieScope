@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929217244733",
+    "project_id": "moviescope-f1b65",
+    "storage_bucket": "moviescope-f1b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929217244733:android:75b71b2195dc7254654454",
+        "android_client_info": {
+          "package_name": "com.ahmedapps.moviesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApaQ-WytKt9wWSzUIWhw66zjwRthGh6RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
